@@ -9,6 +9,9 @@ L'applicazione permette di creare scie fluide con un effetto "mercurio" che camb
 - **Salvataggio:** esporta le tue creazioni in formato PNG.
 - **Zero Dependencies:** scritto in Vanilla JavaScript.
 
+## Demo
+[Clicca qui per provare Zen Canvas Live!](https://marta-viola.github.io/zen-canvas/)
+
 ## Tech Stack
 - HTML5 Canvas API
 - CSS3 (Glassmorphism UI)
